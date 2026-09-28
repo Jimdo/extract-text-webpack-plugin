@@ -21,5 +21,9 @@
     "type": "git",
     "url": "http://github.com/webpack/extract-text-webpack-plugin.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "volta": {
+    "node": "24.21.0",
+    "npm": "12.1.0"
+  }
 }
